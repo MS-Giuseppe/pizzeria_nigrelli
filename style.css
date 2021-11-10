@@ -101,7 +101,7 @@
     /* top logo */
 
     .top-logo{
-      max-width: 350px;
+      max-width: 350px!important;
       height: 100%;
     }
 
