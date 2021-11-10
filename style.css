@@ -101,8 +101,7 @@
     /* top logo */
 
     .top-logo{
-      max-width: 350px!important;
-      height: 100%;
+      width: 350px!important;
     }
 
     /* carousel */
